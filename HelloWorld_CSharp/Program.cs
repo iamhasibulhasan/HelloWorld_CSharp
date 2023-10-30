@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// variable declare
+
+int a = 2;
+string name= "Hasibul Hasan";
